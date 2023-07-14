@@ -1,0 +1,1 @@
+{"uuid":"85bdc219-da4c-42d6-8d05-0404a151ac3b","name":"Android.FirstAndroidTest.setUp","children":["9beb4c1c-354e-4a1c-89e5-8c8e8ba8a275"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1679140856946,"stop":1679140893013}],"afters":[],"start":1679140856945,"stop":1679140893015}
